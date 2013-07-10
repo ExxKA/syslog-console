@@ -24,9 +24,9 @@ Format ([sourcefile]:[line]) [message]
 Syslog Output
 ------
 Format ([Timestamp] [host] [name]"["[processID]"]": [console output])
-    
+
     Jul 10 09:34:40 ubuntu-LTS12-Ruby19 MY-APP-NAME[28116]: (syslog-demo.js:2) Foo
-		Jul 10 09:34:40 ubuntu-LTS12-Ruby19 MY-APP-NAME[28116]: (syslog-demo.js:3) Bar
+    Jul 10 09:34:40 ubuntu-LTS12-Ruby19 MY-APP-NAME[28116]: (syslog-demo.js:3) Bar
 
 The format of the syslog output depends on your local configuration
 
