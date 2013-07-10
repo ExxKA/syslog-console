@@ -1,4 +1,4 @@
-syslog-console
+Syslog+Console
 ==============
 
 Syslog+Console is a monkey patch for the console object in node.js which will output messages to console and local udp:514.
