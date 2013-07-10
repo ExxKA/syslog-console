@@ -1,0 +1,4 @@
+syslog-console
+==============
+
+Syslog+Console
