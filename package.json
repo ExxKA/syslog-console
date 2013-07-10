@@ -1,7 +1,8 @@
 { "name" : "syslog-console",
 	"version" : "0.0.1",
 	"description" : "Syslog+Console will output messages to console and local udp:514, by replacing the console object",
-	"repository": {
+	"author": "Vincens Riber Mink <vincens@usepaddle.com>",
+  "repository": {
     "type": "git",
     "url": "https://github.com/ExxKA/syslog-console"
   },
