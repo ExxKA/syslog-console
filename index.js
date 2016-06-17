@@ -1,5 +1,5 @@
 var ain2 = require('ain2')
-var traceback = require('traceback')
+var traceback = require('traceback-safe')
 var _ = require('underscore')
 var util = require('util')
 
