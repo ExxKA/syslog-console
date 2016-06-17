@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "ain2": "1.2.x",
-    "traceback": "git+https://github.com/JulianHH/traceback.git"
+    "traceback": "git+https://github.com/JulianHH/traceback.git",
     "underscore": "1.4.x"
   }
 }
